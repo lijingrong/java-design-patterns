@@ -12,6 +12,7 @@
         <module>DECORATOR</module>
         <module>ADAPTER</module>
         <module>COMPOSITE</module>
+        <module>OBSERVER</module>
     </modules>
 
     <build>
