@@ -14,6 +14,7 @@
         <module>COMPOSITE</module>
         <module>OBSERVER</module>
         <module>COMMAND</module>
+        <module>PROXY</module>
     </modules>
 
     <build>
