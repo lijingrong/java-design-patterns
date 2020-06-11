@@ -15,6 +15,7 @@
         <module>OBSERVER</module>
         <module>COMMAND</module>
         <module>PROXY</module>
+        <module>TEMPLATE_METHOD</module>
     </modules>
 
     <build>
