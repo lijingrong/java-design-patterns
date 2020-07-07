@@ -16,6 +16,7 @@
         <module>COMMAND</module>
         <module>PROXY</module>
         <module>TEMPLATE_METHOD</module>
+        <module>Chain_Of_Responsibility</module>
     </modules>
 
     <build>
