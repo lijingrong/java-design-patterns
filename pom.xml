@@ -18,6 +18,7 @@
         <module>TEMPLATE_METHOD</module>
         <module>Chain_Of_Responsibility</module>
         <module>MEMENTO</module>
+        <module>ITERATOR</module>
     </modules>
 
     <build>
