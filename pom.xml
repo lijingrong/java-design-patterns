@@ -19,6 +19,7 @@
         <module>Chain_Of_Responsibility</module>
         <module>MEMENTO</module>
         <module>ITERATOR</module>
+        <module>INTERPRETER</module>
     </modules>
 
     <build>
