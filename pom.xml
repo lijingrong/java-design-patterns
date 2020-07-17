@@ -20,6 +20,7 @@
         <module>MEMENTO</module>
         <module>ITERATOR</module>
         <module>INTERPRETER</module>
+        <module>MEDIATOR</module>
     </modules>
 
     <build>
