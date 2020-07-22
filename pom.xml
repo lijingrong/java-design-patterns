@@ -22,6 +22,7 @@
         <module>INTERPRETER</module>
         <module>MEDIATOR</module>
         <module>VISITOR</module>
+        <module>FACTORY_METHOD</module>
     </modules>
 
     <build>
