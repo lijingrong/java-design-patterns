@@ -23,6 +23,7 @@
         <module>MEDIATOR</module>
         <module>VISITOR</module>
         <module>FACTORY_METHOD</module>
+        <module>ABSTRACT_FACTORY</module>
     </modules>
 
     <build>
